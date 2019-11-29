@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+    <mapping date-format="yyyy-MM-dd">
+        <class-a>com.helloxin.DataA</class-a>
+        <class-b>com.helloxin.DataB</class-b>
+        <field>
+            <a>name</a>
+            <b>name2</b>
+        </field>
+    </mapping>
+</mappings>
