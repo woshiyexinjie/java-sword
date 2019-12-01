@@ -12,6 +12,9 @@
         <module>junit</module>
         <module>dozer</module>
         <module>guava</module>
+        <module>jackson</module>
+        <module>orgreflections</module>
+        <module>jooq</module>
     </modules>
 
     <name>java-sword</name>
