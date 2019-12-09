@@ -15,6 +15,7 @@
         <module>jackson</module>
         <module>orgreflections</module>
         <module>jooq</module>
+        <module>easyexcel</module>
     </modules>
 
     <name>java-sword</name>
